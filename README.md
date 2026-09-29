@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi , I'm Swathi
 
-<!--
-**Sri-swathi22/Sri-swathi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Java & DSA | Cloud Computing
 
-Here are some ideas to get you started:
+I am a student interested in software development,
+Java programming, Data Structures and Algorithms , Cloud Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Java
+- Data Structures & Algorithms
+- Cloud Computing
+- Git & GitHub
+
+##  Projects
+
+- Smart Expense Tracker
+- Healthcare application
+- Spendwise
+
+## Currently Learning
+
+- Java DSA
+- Web development
+- Git & GitHub
+- Cloud Software
+
+## 🔗 Connect With Me
+
+- LinkedIn
+- LeetCode
