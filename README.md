@@ -1,4 +1,4 @@
-# Hi , I'm Swathi
+# Hi , I'm Sri Swathi
 
 Student | Java & DSA | Cloud Computing
 
