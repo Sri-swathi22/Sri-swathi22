@@ -25,7 +25,7 @@ Java programming, Data Structures and Algorithms , Cloud Computing.
 - Git & GitHub
 - Cloud Software
 
-## 🔗 Connect With Me
+## Connect With Me
 
 - LinkedIn
 - LeetCode
